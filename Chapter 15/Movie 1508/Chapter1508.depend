@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1300993995 source:c:\users\mmcmillan\documents\learningcpp\chapter1508\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

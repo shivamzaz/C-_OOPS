@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1301073401 source:c:\users\mmcmillan\documents\learningcpp\chapter1604\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1301088790 source:c:\users\mmcmillan\documents\learningcpp\chapter1606\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<vector>
+
